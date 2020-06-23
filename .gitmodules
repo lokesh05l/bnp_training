@@ -1,0 +1,3 @@
+[submodule "bnp_simplilearn"]
+	path = bnp_simplilearn
+	url = https://github.com/vinayingalahalli/bnp_simplilearn
